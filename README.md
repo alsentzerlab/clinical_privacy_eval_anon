@@ -186,23 +186,3 @@ python 5_analysis/verbatim_memorization/content_classification.py
 python 5_analysis/verbatim_memorization/recurrence.py
 python 5_analysis/verbatim_memorization/memorized_region_stats.py
 python 5_analysis/sensitive_diagnosis_auroc_ppv.py
-```
-
-
-## Citation
-
-Sasha Ronaghi, Sana Tonekaboni, Lena Stempfle, Vivian Utti, Jordan Li Cahoon,
-Nathaniel Hendrix, Ayin Vala, Marzyeh Ghassemi, Emily Alsentzer. **Clinically
-Grounded Privacy Evaluation of Medical LMs.** EMNLP 2026.
-[arXiv:2606.09590](https://arxiv.org/abs/2606.09590)
-
-```bibtex
-@inproceedings{ronaghi2026clinicallygroundedprivacyevaluation,
-  title={Clinically Grounded Privacy Evaluation of Medical LMs}, 
-  author={Sasha Ronaghi and Sana Tonekaboni and Lena Stempfle and Vivian Utti and Jordan Li Cahoon and Nathaniel Hendrix and Ayin Vala and Marzyeh Ghassemi and Emily Alsentzer},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2026},
-  url       = {https://arxiv.org/abs/2606.09590}
-}
-
-```

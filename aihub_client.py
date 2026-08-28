@@ -1,5 +1,4 @@
 
-# Use for Stanford AI Hub and replace for a different LLM API if necessary 
 
 from __future__ import annotations
 
@@ -10,7 +9,7 @@ import re
 from pathlib import Path
 from typing import Any, Optional
 
-# AI Hub SDK — once `pip install -e <som-guideai/aihub>` has been run.
+# From institutional AI Hub SDK 
 from aihub import get_openai_client, get_anthropic_client, get_gemini_client
 
 try:

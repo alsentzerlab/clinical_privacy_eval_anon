@@ -4,3 +4,5 @@ cache/
 privacy_eval_results/
 analysis/
 figures/
+pycache/
+.claude/
